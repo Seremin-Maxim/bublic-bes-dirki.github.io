@@ -1,1 +1,1 @@
-# bublic-bes-dirki.github.io
+ФИЗИКА ДЛЯ ЧАЙНИКОВ
