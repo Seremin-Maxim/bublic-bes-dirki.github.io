@@ -108,27 +108,3 @@ button:hover {
   box-shadow: 4px 4px crimson;
 }
 
-.clicked {
-  /* background-color — для цвета фона */
-  background-color: black;
-  /* color — для цвета текста */
-  color: white;
-}
-.clicked3{
-  /* background-color — для цвета фона */
-  background-color: black;
-  /* color — для цвета текста */
-  color: white;
-}
-.clicked4{
-  /* background-color — для цвета фона */
-  background-color: black;
-  /* color — для цвета текста */
-  color: white;
-}
-.clicked5{
-  /* background-color — для цвета фона */
-  background-color: black;
-  /* color — для цвета текста */
-  color: white;
-}
